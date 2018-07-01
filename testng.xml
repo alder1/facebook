@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+         <suite name="TestNG Learning">
+    <test name="login test">
+        <classes>
+            <class name="testcases.LoginTest1"></class>
+        </classes>
+    </test>
+    
+    <test name="payment_historyTest">
+        <classes>
+            <class name="testcases.payment_historyTest"></class>
+        </classes>
+    </test>
+</suite>
