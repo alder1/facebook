@@ -51,7 +51,10 @@ public class create_mealPage {
         basket.isDisplayed();
         logOut.click();
     }
+    public void pTest() {
+        System.out.println("test, test");
 
+    }
 
 
 }
